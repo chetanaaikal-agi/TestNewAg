@@ -14,6 +14,7 @@ public class AppTest {
 		System.out.println(driver.getTitle());
 		Thread.sleep(1000);
 		driver.close();
+		//
 	
 	}
 
